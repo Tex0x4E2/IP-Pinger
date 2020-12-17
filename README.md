@@ -1,6 +1,5 @@
-# This file writed in python.
 ## Downloading:
-    $ git clone --recurse-submodules https://github.com/Tex0x4E2/PyTool/Tool.py
+    $ git clone --recurse-submodules https://github.com/Tex0x4E2/IP-Pinger/Tool.py
 ## Requirements:
 ##### Installing modules: 
     $ pip install colorama
